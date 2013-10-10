@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title: "alex williams"
-tagline: "a videloblog"
+tagline: "a blog"
 author : 
-  name : Robert Louis Stevenson
+  name : Alex Williams
   email: "alexhwilliams@gmail.com"
   twitter : 
 
