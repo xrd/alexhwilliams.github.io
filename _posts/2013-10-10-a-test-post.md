@@ -4,7 +4,7 @@ category:
 title: "a test post"
 tagline: 
 tags : [] 
-published: false
+published: true
 ---
 
 # A new post #
